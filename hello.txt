@@ -1,3 +1,2 @@
 Hi thisis tag propose for usein
-send the details
-this time am oging to praticse of git revert
+2nd time merger conflicts
