@@ -1,7 +1,3 @@
-Hi thisis tag propose for usein
-
-
-
-
-2nd time merger conflicts
-
+Hi thisis tag propose for useing
+git checkout done
+git reset has going on
